@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+a+Passionate+Dev;Love+to+Code+%E2%9C%A8;And+Learn+New+Tech+%F0%9F%92%BB" alt="Typing SVG" /></a>
